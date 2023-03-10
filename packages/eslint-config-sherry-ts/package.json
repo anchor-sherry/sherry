@@ -1,5 +1,5 @@
 {
-  "name": "@sherry/eslint-config-sherry-ts",
+  "name": "@sherry-standard/eslint-config-sherry-ts",
   "version": "1.0.0",
   "description": "用于 Vue3+ts 项目开发的 ESLint 配置。",
   "main": "index.js",

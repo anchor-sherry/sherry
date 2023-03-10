@@ -1,5 +1,5 @@
 {
-  "name": "@sherry/stylelint-config-sherry",
+  "name": "@sherry-standard/stylelint-config-sherry",
   "version": "1.0.0",
   "description": "定制化的 stylelint 配置",
   "main": "index.js",

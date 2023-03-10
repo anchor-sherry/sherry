@@ -1,0 +1,23 @@
+{
+  "name": "@sherry-standard/prettier-config-sherry",
+  "version": "1.0.0",
+  "description": "定制化的 prettier 配置",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "directory": "packages/prettier-config-sherry"
+  },
+  "keywords": ["prettier", "specification"],
+  "author": "黄中超",
+  "license": "MIT",
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.0.0",
+    "prettier": "^2.8.2"
+  }
+}
